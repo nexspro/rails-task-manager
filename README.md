@@ -1,24 +1,26 @@
-# README
+#  Rails Task Manager
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple task management application built with Ruby on Rails to practice CRUD operations and MVC architecture.
 
-Things you may want to cover:
+##  Features
 
-* Ruby version
+- 📝 Create, read, update, and delete tasks
+- 📋 List all tasks with their details
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 🎨 Responsive design with Bootstrap
 
-* System dependencies
+##  Tech Stack
 
-* Configuration
+- **Ruby on Rails** (MVC framework)
+- **SQLite3** (development database)
+- **ERB** (templating system)
+- **Bootstrap 4** (UI styling)
 
-* Database creation
+##  Getting Started
 
-* Database initialization
+1. **Clone the repository:**
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+   ```bash
+   git clone https://github.com/nexspro/rails-task-manager.git
+   cd rails-task-manager
